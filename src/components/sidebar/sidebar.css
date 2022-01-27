@@ -1,0 +1,41 @@
+.sidebar {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 111;
+  width: 200px;
+  height: 100%;
+}
+
+.sidebar .sidebar-header {
+  background: #750ee4;
+  color: #fff;
+  min-height: 25px;
+  padding: 4px;
+  cursor: pointer;
+}
+
+.sidebar .sidebar-header svg {
+  position: absolute;
+  top: 8px;
+  right: 4px;
+  font-size: 30px;
+}
+
+.sidebar .sidebar-menu {
+  background: #f4f5f7;
+  color: #000;
+  height: 100vh;
+  padding: 5px;
+  border-right: 1px solid #e4e4e4;
+}
+
+.sidebar .sidebar-menu li {
+  cursor: pointer;
+}
+
+.sidebar .sidebar-menu li:hover {
+  color: #750ee4;
+  background-color: #e6e7e9;
+}

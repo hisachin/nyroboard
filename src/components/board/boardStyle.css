@@ -1,0 +1,24 @@
+.board {
+  background: hsl(0, 0%, 98%);
+  height: 100%;
+  width: 100%;
+}
+
+.board-opacity {
+  opacity: 0.6;
+}
+
+.board .tools-container {
+  width: 50px;
+  background: #fff;
+  position: absolute;
+  top: 80px;
+  bottom: 80px;
+  left: 10px;
+  border: 1px solid #f2f2f2;
+  box-shadow: 0 0 10px #e4e4e4;
+  border-radius: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

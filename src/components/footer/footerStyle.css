@@ -1,0 +1,17 @@
+.form-control::placeholder {
+  font-size: 0.95rem;
+  color: #aaa;
+  font-style: italic;
+}
+
+.form-control.shadow-0:focus {
+  box-shadow: none;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #750ee4 !important;
+}

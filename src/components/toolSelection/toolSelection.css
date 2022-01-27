@@ -1,0 +1,46 @@
+.tool-lists-container .tool-lists {
+  color: #ccc;
+  font-size: 20px;
+  background: #fff;
+}
+
+.tool-lists-container .tool-li {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.2rem;
+}
+
+.tool-lists-container .tool-lists .active {
+  color: #750ee4;
+}
+
+.tool-lists-container .tool-lists .active-hover:hover {
+  color: #750ee4;
+}
+
+.tool-lists-container .tool-lists .w-3 {
+  width: 3%;
+}
+
+.tool-lists-container .tool-lists input {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  border: none;
+}
+
+.tool-lists-container .tool-lists select {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  border: 1px solid #ccc;
+}
+
+@media only screen and (max-width: 576px) {
+  .tool-lists-container .misc-link-list {
+    position: absolute;
+    right: 0;
+  }
+}

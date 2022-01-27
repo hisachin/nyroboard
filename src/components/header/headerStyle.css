@@ -1,0 +1,38 @@
+.header {
+  width: 100%;
+}
+
+.header a {
+  text-decoration: none;
+  color: #000 !important;
+}
+
+.header a:hover {
+  color: #750ee4 !important;
+}
+
+.header input {
+  background: transparent;
+  border: none;
+  font-family: inherit;
+  padding: 0;
+  outline: none;
+}
+
+.header .menu-list .btn {
+  background: transparent !important;
+  border: none !important;
+  color: #000;
+  margin-top: -6px;
+}
+
+.header .misc-link-list .tool-li:hover {
+  color: #750ee4;
+}
+
+@media only screen and (max-width: 576px) {
+  .header .misc-link-list {
+    position: absolute;
+    right: 0;
+  }
+}
