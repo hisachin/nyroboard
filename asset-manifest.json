@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/nyroboard/static/css/main.9103e434.chunk.css",
-    "main.js": "/nyroboard/static/js/main.c545fc40.chunk.js",
-    "main.js.map": "/nyroboard/static/js/main.c545fc40.chunk.js.map",
+    "main.js": "/nyroboard/static/js/main.a6e63985.chunk.js",
+    "main.js.map": "/nyroboard/static/js/main.a6e63985.chunk.js.map",
     "runtime-main.js": "/nyroboard/static/js/runtime-main.f3f22b82.js",
     "runtime-main.js.map": "/nyroboard/static/js/runtime-main.f3f22b82.js.map",
     "static/css/2.a75f5a2c.chunk.css": "/nyroboard/static/css/2.a75f5a2c.chunk.css",
-    "static/js/2.f107faf6.chunk.js": "/nyroboard/static/js/2.f107faf6.chunk.js",
-    "static/js/2.f107faf6.chunk.js.map": "/nyroboard/static/js/2.f107faf6.chunk.js.map",
+    "static/js/2.c625d6b7.chunk.js": "/nyroboard/static/js/2.c625d6b7.chunk.js",
+    "static/js/2.c625d6b7.chunk.js.map": "/nyroboard/static/js/2.c625d6b7.chunk.js.map",
     "static/js/3.d911b18b.chunk.js": "/nyroboard/static/js/3.d911b18b.chunk.js",
     "static/js/3.d911b18b.chunk.js.map": "/nyroboard/static/js/3.d911b18b.chunk.js.map",
     "index.html": "/nyroboard/index.html",
     "static/css/2.a75f5a2c.chunk.css.map": "/nyroboard/static/css/2.a75f5a2c.chunk.css.map",
     "static/css/main.9103e434.chunk.css.map": "/nyroboard/static/css/main.9103e434.chunk.css.map",
-    "static/js/2.f107faf6.chunk.js.LICENSE.txt": "/nyroboard/static/js/2.f107faf6.chunk.js.LICENSE.txt"
+    "static/js/2.c625d6b7.chunk.js.LICENSE.txt": "/nyroboard/static/js/2.c625d6b7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f3f22b82.js",
     "static/css/2.a75f5a2c.chunk.css",
-    "static/js/2.f107faf6.chunk.js",
+    "static/js/2.c625d6b7.chunk.js",
     "static/css/main.9103e434.chunk.css",
-    "static/js/main.c545fc40.chunk.js"
+    "static/js/main.a6e63985.chunk.js"
   ]
 }
