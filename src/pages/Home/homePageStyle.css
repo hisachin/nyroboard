@@ -6,7 +6,6 @@
   align-items: center;
   position: relative;
   z-index: 1;
-  background-image: url(http://localhost:3000/images/scattered-forcefields.svg);
   background-size: cover;
   background-repeat: no-repeat;
   background-color: #252746;
@@ -102,12 +101,15 @@ button a {
 .cyan {
   border-top: 3px solid var(--cyan);
 }
+
 .red {
   border-top: 3px solid var(--red);
 }
+
 .blue {
   border-top: 3px solid var(--blue);
 }
+
 .orange {
   border-top: 3px solid var(--orange);
 }
@@ -124,10 +126,12 @@ button a {
     justify-content: center;
     align-items: center;
   }
+
   .box-down {
     position: relative;
     top: 150px;
   }
+
   .box {
     width: 20%;
   }
